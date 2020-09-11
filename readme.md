@@ -1,4 +1,4 @@
-# 031_ora2pg
+# Dockerised ora2pg
 
 Ora2pg is a powerful Perl script for migrating from an Oracle (or MySQL) database into a Postgres database. See: http://ora2pg.darold.net/start.html
 
